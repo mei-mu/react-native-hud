@@ -1,0 +1,23 @@
+{
+  "name": "react-native-easy-hud",
+  "version": "0.0.8",
+  "description": "A easy hud for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyonghui16/react-native-hud.git"
+  },
+  "keywords": [
+    "react-native",
+    "hud"
+  ],
+  "author": "livan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/liyonghui16/react-native-hud/issues"
+  },
+  "homepage": "https://github.com/liyonghui16/react-native-hud#readme"
+}
